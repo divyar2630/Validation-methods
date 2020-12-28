@@ -1,5 +1,4 @@
 # Validation-methods
-The objective of this notebook is to compare different validation methods
 
 The objective of this notebook is to compare different validation methods. For this, we will be using a dataset from the UCI repository. 
 It is a crime rate data from different communities. There are 101 predictor variables such as household size, number of police officers, population, etc. The goal is to predict the total number of non-violate crimes per 100k population (response).
